@@ -5,7 +5,10 @@
   "author": {
     "name": "Bill Gooch",
     "email": "billgch@gmail.com",
-  }
+  },
+   "engines": {
+    "node": "0.10.x"
+  },
   "dependencies": {
     "body-parser": "~1.0.1",
     "connect-logger": "0.0.1",
