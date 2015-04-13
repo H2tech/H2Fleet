@@ -1,1 +1,22 @@
-
+{
+  "name": "h2tech",
+  "version": "0.0.1",
+  "description": "Keeping project generation simple",
+  "author": {
+    "name": "Bill Gooch",
+    "email": "billgch@gmail.com",
+  }
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "connect-logger": "0.0.1",
+    "express": "~4.0.0",
+    "method-override": "^2.0.2",
+    "mongoose": "~3.6.13"
+  },
+  "devDependencies": {},
+  "bundleDependencies": [],
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server/server.js"
+}
