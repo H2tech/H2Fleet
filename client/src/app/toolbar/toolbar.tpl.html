@@ -1,0 +1,50 @@
+<div  class="mainContainer">
+
+    <div class="mainContainer">
+
+        <div class="logo">  <a target="_self" >RATES</a></div>
+        <div class="logoRT"><a target="_self" >RT</a></div>
+
+                <span class="actionButtons" >
+
+                  <!--ratesRT tools-->
+                  <div id="addWidgetTool" class="btn-group" ng-show="!showSettings">
+
+                      <button id="addWidgetbtn" class="btn btn-small btn-inverse dropdown-toggle" data-toggle="dropdown"><i class="icon-plus-sign icon-white"></i> Add Widget
+                      </button>
+                      <button class="btn btn-small btn-inverse dropdown-toggle" data-toggle="dropdown">
+                          <span class="caret"></span>
+                      </button>
+
+                      <ul id="widgetCombo" class="dropdown-menu">
+                          <li ng-repeat="widget in WidgetTypes" ng-click="loadWidget(widget)">{{widget.settings.name}}</li>
+                      </ul>
+
+                      <button
+                           class="btn btn-small btn-inverse"
+                           ng-click="setLayoutFramework('masonry')">
+                          <span>Masonry layout</span>
+                      </button>
+
+                      <button class="btn btn-small btn-inverse"
+                              ng-click="setLayoutFramework('gridster')">
+                          <span>Gridster layout</span>
+                      </button>
+
+                  </div>
+
+                  <span class="label label-rt-normal">Currently viewing : {{layoutFramework.frameWork}} layout</span>
+
+                </span>
+
+
+    </div>
+
+    <hr>
+
+
+
+</div>
+
+
+

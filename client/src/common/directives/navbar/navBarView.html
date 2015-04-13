@@ -1,0 +1,17 @@
+<ul class="nav navbar-nav">
+    <li ng-repeat-start="item in navDomain.navigation" ng-class="{active:item.link==navDomain.locationPath}" ng-hide="item.subNav" >
+        <a href="#" ng-click="navDomain.navigate(item.link)" ignore-click=”ignore-click”>{{item.label}}</a>
+    </li>
+    <li class="dropdown" ng-show="item.subNav"  ng-repeat-end>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{item.label}} <b class="caret"></b></a>
+        <ul class="dropdown-menu" >
+            <li ng-repeat="subNavItem in item.subItems" ng-class="{active:item.link==navDomain.locationPath}">
+                <a href="#" ng-click="navDomain.navigate(subNavItem.link)">{{subNavItem.label}}</a>
+            </li>
+        </ul>
+    </li>
+
+</ul>
+
+
+

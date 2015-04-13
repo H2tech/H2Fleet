@@ -1,0 +1,93 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <title>Single dealer trading application</title>
+
+    <link rel="stylesheet" href="assets/styles/bootstrapslate.css"/>
+    <link rel="stylesheet" href="assets/styles/main.css"/>
+
+</head>
+
+    <body ng-app="gch-ng-kisstack">
+
+        <div ng-controller="gch-ng-kisstack.controller" class="container">
+
+            <header class="header">
+
+                <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+                    <div class="container">
+                        <div class="navbar-header">
+                            <a class="navbar-brand" href="/">PROD : {{appTitle}}</a>
+                        </div>
+
+                        <div class="navbar-collapse collapse">
+
+                            <main-navigation nav-config="{{navConfig}}"></main-navigation>
+                            <!-- <login-toolbar></login-toolbar>-->
+
+                        </div>
+                    </div>
+
+                </div>
+
+            </header>
+
+            <!--start: Dynamic View -->
+            <div ng-view></div>
+            <!--end: Dynamic View -->
+
+            <footer class="footer">
+
+            </footer>
+
+        </div>
+
+        <!-- //////////////////////
+                        SCRIPTS
+                 ////////////////////// --!>
+
+        <!-- ||||||||||| Backward compatibility ||||||||||||||||| -->
+
+        <!--[if lt IE 9]>
+        <script src="lib/es5-shim/es5-shim.js"></script>
+        <script src="lib/json3/lib/json3.min.js"></script>
+        <![endif]-->
+
+        <!-- ||||||||||| Dependencies ||||||||||||||||| -->
+        <script src="lib/angular/angular.js"></script>
+        <script src="lib/angular-route/angular-route.js"></script>
+        <script src="lib/angular-resource/angular-resource.js"></script>
+        <script src="lib/angular-bootstrap/ui-bootstrap-tpls.js"></script>
+
+        <script src="common/directives/navbar/navBarModule.js"></script>
+        <script src="common/directives/navbar/navbar-directive.js"></script>
+        <script src="common/directives/navbar/navbar-srv.js"></script>
+
+
+        <!-- ||||||||||| APPLICATION code ||||||||||||||||| -->
+        <script src="app/app.js"></script>
+        <script src="app/app-ctrl.js"></script>
+        <script src="app/app-modules.js"></script>
+
+        <script src="app/domain/domain-model.js"></script>
+        <script src="app/welcome/welcome-ctrl.js"></script>
+        <script src="app/profile/profile-ctrl.js"></script>
+        <script src="app/settings/settings-ctrl.js"></script>
+
+
+
+
+
+
+
+
+    </body>
+</html>

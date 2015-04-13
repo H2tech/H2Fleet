@@ -1,0 +1,25 @@
+/**
+ * Created by gooch on 04/09/14.
+ */
+
+(function(){
+
+    'use strict'
+
+
+
+    angular.module("rtShell")
+
+        //-----------------------------------------
+        //   CONSTANTS -
+        //   Place all systems constants here
+        //-----------------------------------------
+        .constant('CONFIG_DIR','assets/config/')
+        .constant('WIDGETS_DIR','app/widgets/')
+        .constant('IMAGE_DIR','assets/img/')
+
+
+
+}());
+
+

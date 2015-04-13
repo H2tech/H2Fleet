@@ -1,0 +1,38 @@
+<div class="modal-header">
+    <button type="button" ng-click="closeWindow()" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h4 class="modal-title">Login</h4>
+
+</div>
+
+<div class="modal-body">
+    <div class="bs-component">
+        <div class="alert alert-dismissable alert-warning" ng-show="loginFailed">
+            <h4>Warning!</h4>
+            <p>Your log in details were not recognised</p>
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="inputEmail" class="col-lg-2 control-label">Email</label>
+        <div class="col-lg-10">
+            <input type="text" ng-model="user.name" class="form-control" id="inputEmail"  >
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="inputPassword" class="col-lg-2 control-label">Password</label>
+        <div class="col-lg-10">
+            <input ng-model="user.password" type="password" class="form-control" id="inputPassword" >
+            <div class="checkbox">
+                <label>
+                    <input type="checkbox" ng-model="user.remberMe"> Remember my details
+                </label>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+<div class="modal-footer">
+     <button type="button" class="btn btn-default" ng-click="closeWindow()">Close</button>
+     <button type="button" class="btn btn-primary" ng-click="login()">Log in</button>
+</div>
+

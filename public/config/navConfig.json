@@ -1,0 +1,29 @@
+[
+    {
+        "label": "Home",
+        "id": "home",
+        "link": "/"
+    },
+    {
+        "label": "My Account",
+        "id": "myAccount",
+        "link": "/myAccount",
+        "subNav": "true",
+        "subItems":[
+            {
+                "label": "Profile",
+                "id"   : "profile",
+                "link" : "/profile"
+            },
+            {
+                "label": "Settings",
+                "id"   : "settings",
+                "link" : "/settings"
+            }
+
+        ]
+    }
+]
+
+
+

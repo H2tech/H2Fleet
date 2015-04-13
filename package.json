@@ -1,25 +1,28 @@
 {
-  "name": "h2tech",
-  "version": "0.0.1",
-  "description": "Keeping project generation simple",
-  "author": {
-    "name": "Bill Gooch",
-    "email": "billgch@gmail.com",
-  },
-   "engines": {
-    "node": "0.10.x"
-  },
-  "dependencies": {
-    "body-parser": "~1.0.1",
-    "connect-logger": "0.0.1",
-    "express": "~4.0.0",
-    "method-override": "^2.0.2",
-    "mongoose": "~3.6.13"
-  },
-"scripts": {
-    "start": "node server.js"
-  },
-  "main": "server/server.js",
-  "devDependencies": {},
-  "bundleDependencies": []
+    "name": "kiss-stack",
+    "version": "0.0.1",
+    "description": "Keeping project generation simple",
+    "author": {
+        "name": "Bill Gooch",
+        "email": "billgch@gmail.com",
+        "url": "http://www.openshift.com/"
+    },
+    "engines": {
+        "node": ">= 0.6.0",
+        "npm": ">= 1.0.0"
+    },
+    "dependencies": {
+        "body-parser": "~1.0.1",
+        "connect-logger": "0.0.1",
+        "express": "~4.0.0",
+        "method-override": "^2.0.2",
+        "mongoose": "~3.6.13"
+    },
+    "devDependencies": {},
+    "bundleDependencies": [],
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "main": "server/server.js"
 }

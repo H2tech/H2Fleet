@@ -1,0 +1,150 @@
+
+{
+    "widgetDefinitions" : [ {
+                            "sizeX":"10",
+                            "sizeY":"8",
+                            "settings" : {
+                                "name": "Desk Risk Multi Ccy",
+                                "value": "RT_MULTI_CURRENCY_DESK_RISK_2ZERO",
+                                "imageSrc": "mutliCurrency.PNG",
+                                "directive": "mockWidget",
+                                "width": "573",
+                                "height": "406"
+
+                            }
+                          },
+                          {
+                            "sizeX":"13",
+                            "sizeY":"7",
+                            "settings" : {
+                                "name": "IR New Activity",
+                                "value": "RT_NEW_ACTIVITY_2ZERO",
+                                "imageSrc": "irNewActivity.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                            }
+                          },
+                          {
+                            "sizeX":"13",
+                            "sizeY":"7",
+                            "settings" : {
+                                "name": "IR Inventory",
+                                "value": "RT_IR_INVENTORY_2ZERO",
+                                "imageSrc": "irInventory.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                            }
+                          },
+                          {
+                              "sizeX":"7",
+                              "sizeY":"7",
+                              "settings" : {
+                                "name": "IR Curves",
+                                "value": "RT_IR_CURVE_2ZERO",
+                                "imageSrc": "iCurves.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"8",
+                              "sizeY":"17",
+                              "settings" : {
+                                "name": "IR Detail",
+                                "value": "RT_IR_DETAIL_2ZERO",
+                                "imageSrc": "irDetail.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"28",
+                              "sizeY":"5",
+                              "settings" : {
+                                "name": "Standard feed",
+                                "value": "RT_STANDARDFEED_2ZERO",
+                                "imageSrc": "standardFeed.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"13",
+                              "sizeY":"6",
+                              "settings" : {
+                                "name": "Desk view",
+                                "value": "RT_WIDGET_DESK_VIEW",
+                                "imageSrc": "deskView.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"18",
+                              "sizeY":"4",
+                              "settings" : {
+                                "name": "PnL Summary",
+                                "value": "RT_PNL_SUMMARY",
+                                "imageSrc": "pnlSummary.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"6",
+                              "sizeY":"6",
+                              "settings" : {
+                                "name": "Desk Limit",
+                                "value": "RT_DESK_LIMIT",
+                                "imageSrc": "deskLimit.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"12",
+                              "sizeY":"6",
+                              "settings" : {
+                                "name": "Desk PnL",
+                                "value": "RT_DESK_PNL",
+                                "imageSrc": "deskPnL.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"19",
+                              "sizeY":"11",
+                              "settings" : {
+                                "name": "Live chart",
+                                "value": "RT_LIVE_CHART",
+                                "imageSrc": "liveChart.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          },
+                          {
+                              "sizeX":"8",
+                              "sizeY":"6",
+                              "settings" : {
+                                "name": "Option delta",
+                                "value": "RT_OPTION_DELTA",
+                                "imageSrc": "optionDelta.PNG",
+                                "directive": "mockWidget",
+                                "width": "500",
+                                "height": "500"
+                              }
+                          }
+                        ]
+}
+
