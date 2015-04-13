@@ -15,8 +15,5 @@
   },
   "devDependencies": {},
   "bundleDependencies": [],
-  "scripts": {
-    "start": "node server.js"
-  },
   "main": "server/server.js"
 }
