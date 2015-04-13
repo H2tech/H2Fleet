@@ -9,20 +9,23 @@ var methodOverride = require('method-override')
 var http           = require('http');
 
 
-
-
 //===============================================================================
 // CONFIGURE environments
 // =============================================================================
-var port      = process.env.OPENSHIFT_NODEJS_PORT || 8080;
-var ipaddress = process.env.OPENSHIFT_NODEJS_IP   || "127.0.0.1";
+//var port      = process.env.OPENSHIFT_NODEJS_PORT || 8080;
+//var ipaddress = process.env.OPENSHIFT_NODEJS_IP   || "127.0.0.1";
+//
+//if(port === process.env.OPENSHIFT_NODEJS_PORT){
+//    app.use(express.static(__dirname + '../../public'));
+//}
+//else if(port === 8080){
+//    app.use(express.static(__dirname + '../../client/src'));
+//}
 
-if(port === process.env.OPENSHIFT_NODEJS_PORT){
-    app.use(express.static(__dirname + '../../public'));
-}
-else if(port === 8080){
-    app.use(express.static(__dirname + '../../client/src'));
-}
+app.set('port', (process.env.PORT || 5000));
+
+//app.use(express.static(__dirname + '/public'));
+app.use(express.static(__dirname + '../../client/src'));
 
 //===================== MIDDLE WARE ===============
 app.use(require('connect-logger')());

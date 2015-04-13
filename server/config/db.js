@@ -1,4 +1,4 @@
 module.exports = {
 
-	url : 'mongodb://goochie:goochieSPA1@ds037698.mongolab.com:37698/meandev'
+	url : 'mongodb://goochie:goochieSPA1@ds061711.mongolab.com:61711/h2technology'
 }

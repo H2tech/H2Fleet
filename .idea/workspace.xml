@@ -2,208 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e6f251e-93ff-447f-9c4d-c334544fb3e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.gzip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/lib/jasmine_favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/lib/jasmine_favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/.bowerrc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/CHANGES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/CHANGES" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/CONTRIBUTORS.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/CONTRIBUTORS.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/TEMPLATE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular-csp.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/angular-route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/angular-route.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/angular-route.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/app-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/app-modules.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/appConfig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/appConstants" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/appUtils" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/security/authenticate-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/domain/authenticate-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/login/authenticate-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/styles/bootstrapslate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/styles/bootstrapslate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-resource/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-route/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-route/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/styles/config.refdata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/dashBoard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/dashBoard.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/dashBoard.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/config/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/domain/domain-model.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-sham.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-sham.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-sham.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-sham.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-sham.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-sham.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-shim.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-shim.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-shim.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/es5-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/es5-shim.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/gridster.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/gridster.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/helpers/h-kill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/helpers/h-kill.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/helpers/h-matchers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/helpers/h-matchers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/helpers/h.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/helpers/h.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/index.min.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/index.min.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/lib/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/lib/jasmine-html.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/lib/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/lib/jasmine.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/lib/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/lib/jasmine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/lib/json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/lib/json2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/lib/json3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/lib/json3.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/json3/lib/json3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/json3/lib/json3.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/dashboard/layoutManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/security/login-controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/login/login-controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/login/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/security/loginModal.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/styles/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/header/masonaryNavigation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/header/masonryNavigation.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/types/mockWidget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/types/mockWidget.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/navbar/navBarModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/navbar/navBarModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/navbar/tests/unit/navBarSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/navbar/tests/unit/navBarSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/navbar/navBarView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/navbar/navBarView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/config/navConfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/config/navConfig.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/navbar/navbar-directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/navbar/navbar-directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/navbar/navbar-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/navbar/navbar-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/profile/profile-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/profile/profile-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/profile/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/profile/profile.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/config/refData.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-date.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-function.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-number.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-object.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/es5-shim/tests/spec/s-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/es5-shim/tests/spec/s-string.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/routes/security.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/settings/settings-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/settings/settings-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/settings/settings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/settings/settings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/e2e/test.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/test/unit/test.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/test/test.spec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/login/toolbar-module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/login/toolbar-widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/toolbar/toolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/login/toolbar.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/toolbar/toolbar.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/directives/login/toolbar.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/common/directives/login/toolbar.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap-tpls.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/ui-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/models/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/routes/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/welcome/welcome-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/welcome/welcome-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/welcome/welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/welcome/welcome.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/widget.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/header/widgetHeader.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/widgets/header/widgetHeader.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/config/db.js" afterPath="$PROJECT_DIR$/server/config/db.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/server.js" afterPath="$PROJECT_DIR$/server/server.js" />
     </list>
     <ignored path="h2tech.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -266,7 +66,44 @@
     <favorites_list name="h2tech" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Procfile.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Procfile.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="47" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/server/config/db.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="81" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -285,12 +122,14 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/server/config/db.js" />
+        <option value="$PROJECT_DIR$/server/server.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="22" />
+    <option name="x" value="98" />
+    <option name="y" value="42" />
     <option name="width" value="1430" />
     <option name="height" value="860" />
   </component>
@@ -338,6 +177,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -473,7 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="22" width="1430" height="860" extended-state="0" />
+    <frame x="98" y="42" width="1430" height="860" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -492,7 +363,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24783237" sideWeight="0.99594593" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24783237" sideWeight="0.99594593" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -578,7 +449,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Procfile.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/server/config/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="81" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="47" selection-start="1447" selection-end="1447" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
