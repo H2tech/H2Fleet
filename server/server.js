@@ -63,9 +63,15 @@ app.use('/api', router);
 // start app
 // =============================================================================
 
+/*
 var server = http.createServer(app);
-server.listen(port,ipaddress,function(){
+server.listen(app.get('port'),ipaddress,function(){
     console.log('Express server listening on port ' + port+' IP '+ipaddress);
 });
 
-exports = module.exports = app;
+exports = module.exports = app;*/
+
+app.listen(app.get('port'), function() {
+    console.log("Node app is running at localhost:" + app.get('port'))
+})
+
