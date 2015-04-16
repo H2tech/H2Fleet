@@ -12,15 +12,6 @@ var http           = require('http');
 //===============================================================================
 // CONFIGURE environments
 // =============================================================================
-//var port      = process.env.OPENSHIFT_NODEJS_PORT || 8080;
-//var ipaddress = process.env.OPENSHIFT_NODEJS_IP   || "127.0.0.1";
-//
-//if(port === process.env.OPENSHIFT_NODEJS_PORT){
-//    app.use(express.static(__dirname + '../../public'));
-//}
-//else if(port === 8080){
-//    app.use(express.static(__dirname + '../../client/src'));
-//}
 
 app.set('port', (process.env.PORT || 5000));
 
@@ -62,14 +53,6 @@ app.use('/api', router);
 //===============================================================================
 // start app
 // =============================================================================
-
-/*
-var server = http.createServer(app);
-server.listen(app.get('port'),ipaddress,function(){
-    console.log('Express server listening on port ' + port+' IP '+ipaddress);
-});
-
-exports = module.exports = app;*/
 
 app.listen(app.get('port'), function() {
     console.log("Node app is running at localhost:" + app.get('port'))
