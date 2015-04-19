@@ -4,53 +4,49 @@
 (function () {
 
     'use strict'
-
+    console.log('1 APPLICATION :: ');
     function Config($routeProvider) {
 
-        $routeProvider.when('/index', { templateUrl: 'index.html'})
-                      .when('/h2FuelCell', {
-                                templateUrl: 'app/dashboard/gridsterDemo/h2FuelCell.html',
-                                controller: 'DashboardCtrl'
-                            })
+        console.log('2 CONFIG :: ');
+
+        $routeProvider.when('/home', { templateUrl: 'app/view/home.html',controller: 'home-ctrl'})
                         .when('/costSavings', {
-                            templateUrl: 'view/h2fuelCell/templateUrl.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/costSavings.html',
+                            controller: 'costSavingsCtrl'
                         })
                         .when('/guarantee', {
-                            templateUrl: 'view/h2fuelCell/guarantee.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/guarantee.html',
+                            controller: 'guaranteeCtrl'
                         })
                         .when('/insurance', {
-                            templateUrl: 'view/h2fuelCell/insurance.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/insurance.html',
+                            controller: 'insuranceCtrl'
                         })
                         .when('/lifeCycle', {
-                            templateUrl: 'view/h2fuelCell/lifeCycle.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/lifeCycle.html',
+                            controller: 'lifeCycleCtrl'
                         })
                         .when('/technology', {
-                            templateUrl: 'view/h2fuelCell/technology.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/technology.html',
+                            controller: 'technologyCtrl'
                         })
                         .when('/warranty', {
-                            templateUrl: 'view/h2fuelCell/warranty.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/h2fuelCell/warranty.html',
+                            controller: 'warrantyCtrl'
                         })
                         .when('/aboutUs', {
-                            templateUrl: 'view/aboutUs.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/aboutUs.html',
+                            controller: 'aboutUsCtrl'
                         })
                         .when('/blog', {
-                            templateUrl: 'view/blog.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'common/components/blog/blog.html'
                         })
                         .when('/contact', {
-                            templateUrl: 'view/contact.html',
-                            controller: 'DashboardCtrl'
+                            templateUrl: 'app/view/contact.html',
+                            controller: 'contactCtrl'
                         })
 
-
-        $routeProvider.otherwise({redirectTo: '/index'});
+        $routeProvider.otherwise({redirectTo: '/home'});
 
     }
 
@@ -61,12 +57,13 @@
     angular.module("h2TechApp", [
             "ngRoute",
             "ui.bootstrap",
-            "ngResource"
+            "ngResource",
+            "gch-ui-components"
             ])
            .config(Config)
-           .run(function (h2Config) {
+           .run(function (CONFIG,h2Config) {
 
-                    h2Config.setConfigData(CONFIG);
+                   // h2Config.setConfigData(CONFIG);
               });
 
     fetchConfigData().then(bootstrapApplication);
