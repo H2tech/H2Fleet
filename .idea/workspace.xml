@@ -2,96 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e6f251e-93ff-447f-9c4d-c334544fb3e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/TEMPLATE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/TEMPLATE.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/aboutUs-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/aboutUs.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/styles/animate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/blog/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/components-module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/contact-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/contact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/utils/temps/controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSaving-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/guarantee-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/guarantee.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/h2Config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/h2Constants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/domain/h2Utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/home-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/insurance-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/insurance.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/lifeCycle-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/lifeCycle.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/navbar/navBarModule.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/navbar/tests/unit/navBarSpec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/navbar/navBarView.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/navbar/navbar-directive.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/navbar/navbar-srv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/login/toolbar-module.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/login/toolbar-widget.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/login/toolbar.tpl.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/warranty-ctrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/warranty.html" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\Procfile.txt" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\dashBoard.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\dashBoard.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\dashBoard.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\gridster.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\gridster.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\dashboard\layoutManager.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\domain\appConfig" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\domain\appConstants" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\domain\appUtils" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\h2FuellCell\welcome-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\h2FuellCell\welcome.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\profile\profile-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\profile\profile.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\settings\settings-ctrl.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\settings\settings.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\toolbar\toolbar.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\toolbar\toolbar.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\header\masonaryNavigation.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\header\masonryNavigation.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\header\widgetHeader.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\header\widgetHeader.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\types\mockWidget.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\types\mockWidget.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\widget.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\app\widgets\widget.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\TEMPLATE.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\login\toolbar-module.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\login\toolbar-widget.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\login\toolbar.tpl.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\navbar\navBarModule.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\navbar\navBarView.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\navbar\navbar-directive.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\navbar\navbar-srv.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\common\directives\navbar\tests\unit\navBarSpec.js" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\aboutUs.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\blog.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\contact.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\Guarantee.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\Insurance.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\costSavings.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\lifeCycle.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\technology.html" afterPath="" />
-      <change type="DELETED" beforePath="E:\dev\code\h2tech\client\src\view\h2fuelCell\warranty.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/app.js" afterPath="$PROJECT_DIR$/client/src/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/index.html" afterPath="$PROJECT_DIR$/client/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/lib/restart_theme.js" afterPath="$PROJECT_DIR$/client/src/lib/restart_theme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/assets/styles/style.css" afterPath="$PROJECT_DIR$/client/src/assets/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/view/home.html" afterPath="$PROJECT_DIR$/client/src/app/view/home.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="E:\dev\code\h2tech\client\src\index.html" afterPath="$PROJECT_DIR$/client/src/app/view/home.html" />
     </list>
     <ignored path="h2tech.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429467816194" ignored="false" />
+    <file path="/Dummy.txt" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429944586126" ignored="false" />
     <file path="/index.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429431434432" ignored="false" />
     <file path="/app.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429368535587" ignored="false" />
     <file path="/aboutUs.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429371513817" ignored="false" />
@@ -159,6 +76,7 @@
       </breakpoint>
     </breakpoint_any>
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -198,7 +116,7 @@
       <file leaf-file-name="app.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/src/app/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="147" selection-start="834" selection-end="834" vertical-scroll-proportion="0.029565217">
+            <state line="35" column="47" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.5067568">
               <folding />
             </state>
           </provider>
@@ -297,10 +215,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="874" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -330,6 +247,8 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -460,20 +379,18 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-    <property name="GoToClass.includeLibraries" value="false" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
-    <property name="GoToClass.includeJavaFiles" value="false" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="GoToClass.includeJavaFiles" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -490,59 +407,18 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
-      <JSDebuggerConfigurationSettings>
-        <option name="engineId" value="embedded" />
-        <option name="fileUrl" />
-      </JSDebuggerConfigurationSettings>
-      <method />
-    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -573,6 +449,19 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -586,6 +475,34 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <list size="0" />
@@ -604,32 +521,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32924107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24759872" sideWeight="0.6707589" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24748924" sideWeight="0.6719577" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.004464286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -703,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="60" selection-start="450" selection-end="450" vertical-scroll-proportion="0.2543641">
           <folding>
-            <element signature="n#style#0;n#figure#0;n#a#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#figure#0;n#a#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#figure#0;n#a#0;n#div#0;n#div#2;n#div#0;n#section#2;n#div#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#1;n#footer#0;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#section#1;n#footer#0;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -714,16 +628,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/lib/gch-ui-components/components-module.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="34" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="34" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/assets/styles/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7026" column="65" selection-start="149945" selection-end="149945" vertical-scroll-proportion="-17.84">
-          <folding />
-        </state>
+        <state line="7026" column="65" selection-start="149945" selection-end="149945" vertical-scroll-proportion="-17.84" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/view/aboutUs.html">
@@ -814,7 +724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="147" selection-start="834" selection-end="834" vertical-scroll-proportion="0.029565217">
+        <state line="35" column="47" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.5067568">
           <folding />
         </state>
       </provider>
