@@ -42,9 +42,6 @@
                             templateUrl: 'app/view/aboutUs.html',
                             controller: 'aboutUsCtrl'
                         })
-                        .when('/blog', {
-                            templateUrl: 'common/components/blog/blog.html'
-                        })
                         .when('/contact', {
                             templateUrl: 'app/view/contact.html',
                             controller: 'contactCtrl'

@@ -8,10 +8,10 @@
 (function(){
 
     'use strict'
-    function pricerDirective(WIDGETS_DIR){
+    function pricerDirective(){
 
 
-        function Controller($scope, h2CostModel){
+        function Controller(){
 
 
             function calculateCost (){
@@ -33,12 +33,12 @@
             restrict     : 'E',
             controller   : Controller,
             controllerAs : 'vm',
-            templateUrl  : WIDGETS_DIR+'types/spike/mockWidget.tpl.html'
+            templateUrl  : 'common/components/h2pricer/pricer.tpl.html'
         }
     }
 
-    angular.module("rtShell")
-        .directive("pricer",pricerDirective);
+    angular.module("h2TechApp")
+        .directive("h2Pricer",pricerDirective);
 
 }())
 
