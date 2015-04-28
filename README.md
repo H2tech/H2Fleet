@@ -33,12 +33,20 @@ Money Back Gaurantee : Each Hydrogen fuel cell comes with a 30 day money back ga
 
 NOTE : When used in conjunction with the proof of concept this allows a full 60 days to access the H2 Fuel cell
 
+Warranty
+
+> Each H2 fuel cell come swith a full 1 year warrenty
+
 Installation
 
-> 
+> CE marked product with full insurance
 
+Life cycle
 
-CE marked product with full insurance
+> Quartley statistics gathering ..... althouhg there is the check every 8 weeks
+
+Every quarter - measure co2 emissions
+
 
 
 FAQ
