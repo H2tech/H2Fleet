@@ -9,6 +9,8 @@ Technology
 
 > Why does it improve effeciency
 
+Originally designed by John Hickman and developed with Jason Munro, ten years’ of Hydrogen Cell R&D experience has resulted in a high-end product, built from marine-grade stainless steel and titanium, designed to be ahead of the game.
+
 Benefits in relation to product group - haulage
 
 > Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to. http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
