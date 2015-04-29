@@ -25,19 +25,28 @@ All the kits are high quality and clear running and will provide a solution to y
 
 #   Benefits in relation to product group - haulage
 
-> Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to,http://www.esos.uk.com/ http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
+> Reduced CO - HO 
 
-> Increased tourque display the rolling road data
+Euro standards Age and make of vehicles and what their MOT readings got to,http://www.esos.uk.com/ http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
 
-> Engine health and maintenance Carbon build-up leads to potentially expensive issues such as Exhaust Gas Recirculation (EGR) Valves, Diesel Particulate Filters (DPF filters), Turbo issues, inlet manifold and injector problems.
+
+> Increased tourque
+
+Display the rolling road data
+
+The bottom-end torque will increase to allow a smoother drive with a reduced need to change gears,resulting in increased mpg with less revs.
+
+> Engine health and maintenance 
+
+Carbon build-up leads to potentially expensive issues such as Exhaust Gas Recirculation (EGR) Valves, Diesel Particulate Filters (DPF filters), Turbo issues, inlet manifold and injector problems.
 The system works by turning tap water into hydrogen molecules which pass through the air intake of an engine and out through the exhaust system, stripping the built-up excess carbon that leads to poor running issues.
 By removing harmful carbon build-up from your engine, you will experience both immediate and long term benefits,
 Cleaner engine and oils due to reduced hydrocarbon accumulation -Fewer oil and filter changes
 
-including:http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
 
-H2 promise through a proof of concept
- > We appreciate that reveloutionary technology comes with a certain degree of uncertainty and that the normal course of the road is that ealry adopters pave the way for main stream adoption. We are so confident of the H2 fuell cell that we want to make a promise to you as a potential customer through a proof of concept that is of no cost to you the customer.
+#   H2 promise through a proof of concept
+
+We appreciate that reveloutionary technology comes with a certain degree of uncertainty and that the normal course of the road is that ealry adopters pave the way for main stream adoption. We are so confident of the H2 fuell cell that we want to make a promise to you as a potential customer through a proof of concept that is of no cost to you the customer.
  
 We make the following promise to you ::
 
@@ -46,17 +55,19 @@ We make the following promise to you ::
 
 After which we can discuss your requirements.
 
-Money Back Gaurantee : Each Hydrogen fuel cell comes with a 30 day money back gaurantee - 
+#   Money Back Gaurantee : Each Hydrogen fuel cell comes with a 30 day money back gaurantee - 
 
 NOTE : When used in conjunction with the proof of concept this allows a full 60 days to access the H2 Fuel cell
 
-Warranty
+#   Warranty
 
-> Each H2 fuel cell come swith a full 1 year warrenty
+> Each H2 fuel cell come swith a 36-month Warranty with an option to extend*
 
-36-month Warranty with an option to extend*
+It is an approved product with CE Certification and product liability insurance underwritten by Lloyds of London.
 
-Installation
+Have warranty details - PDF
+
+#  Installation
 
 > CE marked product with full insurance
 
@@ -64,9 +75,30 @@ Fitted by the Manufacturer with CE Certification
 
 de Verde Limited will be happy to supply and professionally install our system in your vehicle at our facilities in Paignton, Devon. Alternatively we have accredited installers in many areas around the country
 
-Our range of  HHO kits can be fitted easily at home by DIY enthusiasts. As well as the complete kit with all fittings we also provide comprehensive fitting and safety instructions, video tutorials and expert technical support in our members area section of this site.
+
 
 Life cycle
+
+> Installation
+
+Our customers receive an Installation Certificate, Service Booklet and Maintenance Guide; and our system is installed by Trained, Qualified and Approved Installers as part of the product warranty, who are assessed and receive training certificates.
+
+
+1. Cell installation
+
+This hydrogen on demand system is fitted by the manufacturer and an installation certificate is provided to the customer.
+
+2. Reuarly mainted by periodic topping up with distilled/filtered water.
+3. de Verde electrolyte fluid should only be used. Use of any other product will void the warranty and may damage the cell.
+
+> Instructions
+
+1. In the event of the warning LED light on the cell switching off or appearing to fade; the customer should contact the technical helpline Tel: 01803 664701 or Email: info@hydrogenhybrids.uk.com.
+
+2. Please pull out the main fuse from the smart relay before jump starting or attaching a battery charger across the battery. Failure to do this may cause damage and therefore void the Warranty.
+
+3. It is recommended that you advise your insurers that you have a de Verde system fitted to your vehicle
+
 
 > Quartley statistics gathering ..... althouhg there is the check every 8 weeks
 
@@ -81,6 +113,18 @@ FAQ
 
 Does this affect my insurance
 
+This hydrogen on demand system is designed to improve the efficiency of the engine to reduce emissionsto near zero and improve the mpg. It is an accessory, not a permanent fixture. It connects simply & can be easily removed.
 
+It is not designed as a performance/race device.
+
+It is not nitrous oxide.
+
+It is an on-demand hydrogen system, which stores no gas on the vehicle.
+
+It makes hydrogen on demand and burns when the engine is switched on.
+
+When switched off there is no gas made or stored.
+
+It is an approved product with CE Certification and product liability insurance underwritten by Lloyds of London.
 
 
