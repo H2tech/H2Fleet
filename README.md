@@ -11,19 +11,19 @@ http://jasonwatmore.com/post/2014/08/01/AngularJS-directives-for-social-sharing-
 
 Far more of the fuel you pay for is converted into useful work to power the car rather than being wasted as heat.
 
-How it works ?
+> How it works ?
 
 Water is comprised of two atoms of Hydrogen and one atom of Oxygen or H2O which makes it perfect as a fuel source. Our unique HHO system will separate a water molecule into its component atoms (H H & O or HHO). We can do this using very little electricity. This gas is then injected into the engine and oxidised as fuel. The resulting energy is 2.5 times more powerful than petrol/gasoline. This totally changes Combustion! The by-product of the combustion is water vapour. Therefore, as fuel, water is powerful, cheap and pollution free. The improvement in emissions and mpg far outweigh the energy required to produce the gas 
 
 Of course you cannot fill your car with water yet, so for now we have to “split” water molecules into Hydrogen & Oxygen gas and use this to improve efficiency. Our hope is that our vehicle engines will try to balance optimum performance with fuel economy – the de Verde Hydrogen-on-Demand System will increase both, using the ‘trapped’ power of water which is released on-board-automatically as you drive! A single litre of distilled water can produce many thousands of litres of trapped gas, so you have to top it up from time to time. The final result is felt as you drive away and the smell of fuel from your exhaust disappears. Toxic exhaust gases NOx, HCs, CO are reduced to the point where they are almost undetectable – please see our 
 
-Materials
+> Materials
 
 Originally designed by John Hickman and developed with Jason Munro, ten years’ of Hydrogen Cell R&D experience has resulted in a high-end product, built from marine-grade stainless steel and titanium, designed to be ahead of the game.
 
 All the kits are high quality and clear running and will provide a solution to your emission issues, fuel economy and lack of performance with astounding results - ( wheres the astounding results )
 
-Benefits in relation to product group - haulage
+#   Benefits in relation to product group - haulage
 
 > Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to,http://www.esos.uk.com/ http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
 
