@@ -129,4 +129,52 @@ It is an approved product with CE Certification and product liability insurance 
 
 Torque, emissions and efficiency will improve but not the power/bhp.
 
+#   London Leads
+
+http://www.kingmanservices.co.uk/
+
+8 - Artic vehicles with aggregate tipping trailers with a carrying capacity of 29.50 Tonnes.
+
+15 - 8 x 4 Tippers with a carrying capacity of 19.50 Tonnes.
+
+1 - 8 x 4 grab vehicle with a carrying capacity of 16.80 Tonnes.
+
+Concrete mixers
+
+17 x 8 Metre vehicles.
+
+5 x 6 Metre vehicles.
+
+
+
+http://www.fta.co.uk/
+
+http://www.fors-online.org.uk/cms/
+
+
+
+http://www.normanroad.co.uk/
+
+Our current fleet totals 25 in number and are all 32.00 tonne 4-axle tippers. They are all LEZ compliant and by the end of 2011 they will exceed the Euro lV standard for pollution required.
+
+All vehicles are subject to regular Safety Inspections (every 4 to 6 weeks) in accordance with Department Of Transport requirements by our own workshop staff.
+In addition to this a daily check is carried out by the driver of the vehicle and records this in his daily report book in triplicate one copy of which is given to the Transport Manager and one to the Fleet Engineeer.
+So, regular safety inspections, regular servicing and a rolling Vehicle Replacement Programme provides Norman Road Haulage with a fleet of vehicles able to go to work safely.
+
+
+http://www.platinumtransport.co.uk/about-us.aspx
+
+http://www.huntstransport.co.uk/
+
+
+
+
+http://www.rswain.com/
+
+240 split, 60 rigid and 180 artic
+Rigids: range from vans to 26 tonners with 10 equipped with hiabs and 2 with fork truck moffetts
+Artics: All are minimum 44 tonne capable with our Special Projects tractors plated to 150 tonnes. 2 of the artics are equipped with hiabs
+Traditionally the Swain Group has majored on Dafs but with recent acquisitions the fleet now includes Scania and Volvo vehicles. All are satellite tracked giving us instant knowledge of the location of our customers consignments
+
+
 
