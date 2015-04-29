@@ -77,7 +77,7 @@ de Verde Limited will be happy to supply and professionally install our system i
 
 
 
-Life cycle
+#   Life cycle
 
 > Installation
 
@@ -109,7 +109,7 @@ Page enhancements
 Costing page add how many units you require and what the savings will be -- then underneath
 
 
-FAQ
+#   FAQ
 
 Does this affect my insurance
 
