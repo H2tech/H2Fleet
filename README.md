@@ -11,6 +11,8 @@ Technology
 
 Originally designed by John Hickman and developed with Jason Munro, ten years’ of Hydrogen Cell R&D experience has resulted in a high-end product, built from marine-grade stainless steel and titanium, designed to be ahead of the game.
 
+All the kits are high quality and clear running and will provide a solution to your emission issues, fuel economy and lack of performance with astounding results - ( wheres the astounding results )
+
 Benefits in relation to product group - haulage
 
 > Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to. http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
