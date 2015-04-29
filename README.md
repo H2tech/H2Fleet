@@ -25,7 +25,7 @@ All the kits are high quality and clear running and will provide a solution to y
 
 Benefits in relation to product group - haulage
 
-> Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to. http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
+> Reduced CO - HO ::  Euro standards Age and make of vehicles and what their MOT readings got to,http://www.esos.uk.com/ http://www.sykes-pickavant.com/products/electrical-diagnostics-and-test-tools/emissions/1041
 
 > Increased tourque display the rolling road data
 
