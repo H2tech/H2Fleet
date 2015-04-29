@@ -127,4 +127,6 @@ When switched off there is no gas made or stored.
 
 It is an approved product with CE Certification and product liability insurance underwritten by Lloyds of London.
 
+Torque, emissions and efficiency will improve but not the power/bhp.
+
 
