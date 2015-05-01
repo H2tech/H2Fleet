@@ -220,6 +220,7 @@ th {
   }
   thead {
     display: table-header-group;
+
   }
   tr,
   img {
@@ -1456,6 +1457,7 @@ th {
 }
 .table-bordered {
   border: 1px solid #dddddd;
+  border-radius: 5px;
 }
 .table-bordered > thead > tr > th,
 .table-bordered > tbody > tr > th,
@@ -5976,6 +5978,7 @@ header .container {
   font-size: 13px;
   font-weight: 300;
   display: block;
+  color: #000000;
   text-shadow: 1px 1px 0px #ffffff;
 }
 .navbar .nav {
