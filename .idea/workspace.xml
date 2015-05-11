@@ -2,18 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e6f251e-93ff-447f-9c4d-c334544fb3e1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/assets/styles/h2.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html" afterPath="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js" afterPath="$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/footer/footer.tpl.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2Promise-ctrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/app/view/h2Promise.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/src/common/components/footer/h2footer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/app.js" afterPath="$PROJECT_DIR$/client/src/app/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/app/view/home.html" afterPath="$PROJECT_DIR$/client/src/app/view/home.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/index.html" afterPath="$PROJECT_DIR$/client/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/common/components/h2pricer/pricer.tpl.html" afterPath="$PROJECT_DIR$/client/src/common/components/h2pricer/pricer.tpl.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/assets/styles/style.css" afterPath="$PROJECT_DIR$/client/src/assets/styles/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" afterPath="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="E:\dev\code\h2tech\client\src\common\components\TEMPLATE.js" afterPath="$PROJECT_DIR$/client/src/common/components/DIR_TEMPLATE.js" />
     </list>
     <ignored path="h2tech.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430240846307" ignored="false" />
-    <file path="/index.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430241308037" ignored="false" />
+    <file path="/Dummy.txt" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1431173558506" ignored="false" />
+    <file path="/index.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1431177173491" ignored="false" />
     <file path="/app.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429368535587" ignored="false" />
     <file path="/aboutUs.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429371513817" ignored="false" />
     <file path="/h2Config.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429372878048" ignored="false" />
@@ -26,7 +29,7 @@
     <file path="/guarantee.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429373207995" ignored="false" />
     <file path="/costSavings.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430047345969" ignored="false" />
     <file path="/blog.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429374485618" ignored="false" />
-    <file path="/home.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429972741849" ignored="false" />
+    <file path="/home.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1431177299589" ignored="false" />
     <file path="/restart_theme.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429378633780" ignored="false" />
     <file path="/jumbotron.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429432229785" ignored="false" />
     <file path="/a.dummy" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1429432087608" ignored="false" />
@@ -36,6 +39,8 @@
     <file path="/pricer.tpl.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430046829914" ignored="false" />
     <file path="/h2.css" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430044408538" ignored="false" />
     <file path="/h2pricer.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1430046790913" ignored="false" />
+    <file path="/jumbotron.tpl.html" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1431174563896" ignored="false" />
+    <file path="/footer.js" changelist="5e6f251e-93ff-447f-9c4d-c334544fb3e1" time="1431177042014" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,10 +98,10 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="pricer.tpl.html" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/pricer.tpl.html">
+            <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/client/src/assets/styles/style.css">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state line="9" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.16612378">
+                  <state line="6009" column="197" selection-start="126655" selection-end="126655" vertical-scroll-proportion="0.37037036">
                     <folding />
                   </state>
                 </provider>
@@ -110,10 +115,10 @@
       <content type="file-editors">
         <state>
           <leaf>
-            <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/client/src/assets/styles/style.css">
+            <file leaf-file-name="pricer.tpl.html" pinned="false" current="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/pricer.tpl.html">
                 <provider selected="true" editor-type-id="text-editor">
-                  <state line="5990" column="37" selection-start="126119" selection-end="126119" vertical-scroll-proportion="0.018518519">
+                  <state line="9" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.07955801">
                     <folding />
                   </state>
                 </provider>
@@ -130,12 +135,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client/src/index.html">
+      <file leaf-file-name="home.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/app/view/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="70" selection-start="3054" selection-end="3054" vertical-scroll-proportion="0.63265306">
+            <state line="30" column="97" selection-start="1526" selection-end="1526" vertical-scroll-proportion="-7.6923075">
               <folding>
-                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#0;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -144,43 +149,47 @@
       <file leaf-file-name="technology.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="59" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
+            <state line="49" column="48" selection-start="3092" selection-end="3092" vertical-scroll-proportion="-8.346154">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/app/app.js">
+      <file leaf-file-name="jumbotron.tpl.html" pinned="false" current="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="57" column="29" selection-start="2301" selection-end="2310" vertical-scroll-proportion="0.0">
+            <state line="20" column="99" selection-start="1133" selection-end="1133" vertical-scroll-proportion="0.4038005">
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="98" column="86" selection-start="6380" selection-end="6380" vertical-scroll-proportion="-25.76923">
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="h2footer.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/common/components/footer/h2footer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="23" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="h2pricer.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js">
+      <file leaf-file-name="footer.tpl.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/src/common/components/footer/footer.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="13" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="h2.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/assets/styles/h2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="55" selection-end="67" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="costSavings.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="85" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
+            <state line="25" column="14" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-16.346153">
               <folding />
             </state>
           </provider>
@@ -205,14 +214,7 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/client/src/lib/restart_theme.js" />
-        <option value="$PROJECT_DIR$/client/src/app/view/aboutUs.html" />
-        <option value="$PROJECT_DIR$/client/src/app/view/contact.html" />
-        <option value="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSaving-ctrl.js" />
-        <option value="$PROJECT_DIR$/client/src/app/view/portfolio.html" />
         <option value="$PROJECT_DIR$/client/src/app/view/portfolio.js" />
-        <option value="$PROJECT_DIR$/client/src/app/view/home.html" />
-        <option value="$PROJECT_DIR$/client/src/app/app.js" />
         <option value="$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology.html" />
         <option value="$PROJECT_DIR$/client/src/app/domain/h2Constants.js" />
         <option value="$PROJECT_DIR$/client/src/assets/styles/h2.css" />
@@ -220,7 +222,14 @@
         <option value="$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js" />
         <option value="$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html" />
         <option value="$PROJECT_DIR$/client/src/assets/styles/style.css" />
+        <option value="$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html" />
+        <option value="$PROJECT_DIR$/client/src/app/app.js" />
+        <option value="$PROJECT_DIR$/client/src/app/view/h2Promise.html" />
+        <option value="$PROJECT_DIR$/client/src/app/view/h2Promise-ctrl.js" />
+        <option value="$PROJECT_DIR$/client/src/common/components/footer/footer.tpl.html" />
         <option value="$PROJECT_DIR$/client/src/index.html" />
+        <option value="$PROJECT_DIR$/client/src/common/components/footer/footer.js" />
+        <option value="$PROJECT_DIR$/client/src/app/view/home.html" />
       </list>
     </option>
   </component>
@@ -258,7 +267,7 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -287,20 +296,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h2tech" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h2tech" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -341,11 +336,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="styles" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -367,41 +358,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h2tech" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="h2tech" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="logo" />
+              <option name="myItemId" value="gch-ui-components" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -423,7 +384,101 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="assets" />
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gch-ui-components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jumbotron" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2pricer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="common" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="footer" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -449,9 +504,65 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2tech" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="view" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="h2fuelCell" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -604,8 +715,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850778" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -618,9 +729,10 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24759872" sideWeight="0.68482906" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24759872" sideWeight="0.9955457" order="0" side_tool="false" content_ui="combo" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.004454343" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -630,7 +742,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.004464286" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -691,67 +802,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/client/src/app/view/home-ctrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="74" selection-start="0" selection-end="228" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/view/portfolio.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="43" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/view/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="113" selection-start="2775" selection-end="2775" vertical-scroll-proportion="-28.76923" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/common/components/TEMPLATE.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/common/components/navbar/navbar-srv.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/common/components/navbar/navbar-directive.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/domain/h2Constants.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="48" selection-start="370" selection-end="370" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/view/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="29" selection-start="2301" selection-end="2310" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="59" selection-start="733" selection-end="733" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="13" selection-start="1007" selection-end="1007" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/client/src/app/view/h2fuelCell/costSavings.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="85" selection-start="669" selection-end="669" vertical-scroll-proportion="0.0">
@@ -768,24 +818,105 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/pricer.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.16612378">
+        <state line="9" column="33" selection-start="652" selection-end="652" vertical-scroll-proportion="0.07955801">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/client/src/assets/styles/style.css">
+    <entry file="file://$PROJECT_DIR$/client/src/app/view/h2Promise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5990" column="37" selection-start="126119" selection-end="126119" vertical-scroll-proportion="0.018518519">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/view/aboutUs-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="49" selection-start="0" selection-end="229" vertical-scroll-proportion="0.21444954">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="54" selection-start="2085" selection-end="2098" vertical-scroll-proportion="0.7213303">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/view/h2Promise-ctrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="49" selection-start="220" selection-end="220" vertical-scroll-proportion="0.37041286">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/common/components/DIR_TEMPLATE.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="60" selection-start="0" selection-end="805" vertical-scroll-proportion="0.5263761">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/common/components/h2pricer/h2pricer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="0" selection-start="1577" selection-end="1648" vertical-scroll-proportion="0.7075688">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/common/components/footer/footer.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="14" selection-start="1263" selection-end="1263" vertical-scroll-proportion="-16.346153">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/common/components/footer/h2footer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="23" selection-start="777" selection-end="777" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="70" selection-start="3054" selection-end="3054" vertical-scroll-proportion="0.63265306">
+        <state line="98" column="86" selection-start="6380" selection-end="6380" vertical-scroll-proportion="-25.76923">
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/view/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="97" selection-start="1526" selection-end="1526" vertical-scroll-proportion="-7.6923075">
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#section#0;n#section#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/app/view/h2fuelCell/technology.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="48" selection-start="3092" selection-end="3092" vertical-scroll-proportion="-8.346154">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/lib/gch-ui-components/jumbotron/jumbotron.tpl.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="99" selection-start="1133" selection-end="1133" vertical-scroll-proportion="0.4038005">
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/src/assets/styles/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6009" column="197" selection-start="126655" selection-end="126655" vertical-scroll-proportion="0.37037036">
+          <folding />
         </state>
       </provider>
     </entry>

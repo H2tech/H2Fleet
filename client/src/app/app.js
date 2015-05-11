@@ -42,6 +42,10 @@
                             templateUrl: 'app/view/aboutUs.html',
                             controller: 'aboutUsCtrl'
                         })
+                        .when('/h2Promise', {
+                            templateUrl: 'app/view/h2Promise.html',
+                            controller: 'h2PromiseCtrl'
+                        })
                         .when('/contact', {
                             templateUrl: 'app/view/contact.html',
                             controller: 'contactCtrl'
