@@ -18,6 +18,10 @@
                             templateUrl: 'app/view/h2fuelCell/guarantee.html',
                             controller: 'guaranteeCtrl'
                         })
+                        .when('/portfolio', {
+                            templateUrl: 'app/view/portfolio.html',
+                            controller: 'portfolioCtrl'
+                        })
                         .when('/insurance', {
                             templateUrl: 'app/view/h2fuelCell/insurance.html',
                             controller: 'insuranceCtrl'
@@ -38,8 +42,9 @@
                             templateUrl: 'app/view/aboutUs.html',
                             controller: 'aboutUsCtrl'
                         })
-                        .when('/blog', {
-                            templateUrl: 'common/components/blog/blog.html'
+                        .when('/h2Promise', {
+                            templateUrl: 'app/view/h2Promise.html',
+                            controller: 'h2PromiseCtrl'
                         })
                         .when('/contact', {
                             templateUrl: 'app/view/contact.html',

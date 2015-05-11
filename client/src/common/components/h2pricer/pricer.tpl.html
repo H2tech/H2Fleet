@@ -1,62 +1,53 @@
-<form>
-    <div class="form-group">
-        <label for="vehicleSelect">Select Vehicle </label>
-        <select id="vehicleSelect" class="form-control">
-            <option>One</option>
-            <option>Two</option>
-            <option>Three</option>
-            <option>Four</option>
-            <option>Five</option>
-        </select>
-    </div>
+<div id="h2Pricer">
 
-    <div class="form-group">
-        <label for="costPerLitre">Current fuel £/ltr </label>
-        <input type="number" class="form-control" id="costPerLitre" value="1.19">
-    </div>
-    <div class="form-group">
-        <label for="fuelSaving">% saving on fuel</label>
-        <input type="number" class="form-control" id="fuelSaving" value="30">
-    </div>
-    <div class="input-group">
-        <span class="input-group-addon" id="basic-addon1">%</span>
-        <input type="text" class="form-control" placeholder="Enter saving on fuel" aria-describedby="basic-addon1">
-    </div>
+    <form class="form-inline" style="margin-bottom:10px;border-color:#428bca; border-style: solid;border-width: 2px;border-radius: 5px; padding: 5px 5px 5px 5px; ">
+        <div class="form-group input-group-sm">
+            <label for="costPerLitre">Current fuel £/ltr </label>
+            <input type="number" style="width: 60px;margin-left: 5px;" size="4" class="form-control " id="costPerLitre" ng-model="vm.priceCalculator.fuelPriceLtr">
+        </div>
+        <div class="form-group input-group-sm">
+            <label style="margin-left: 5px;" for="fuelSaving">H2 fuel cell saving %</label>
+            <input type="number" style="width: 60px;margin-left: 5px;" size="4" class="form-control" id="fuelSaving" ng-model="vm.priceCalculator.h2FuelCellSaving">
+        </div>
 
-    <div class="form-group">
-        <label for="costOfH2Cell">Cost of H2 cell</label>
-        <input type="number" class="form-control" id="costOfH2Cell" value="1000">
-    </div>
+    </form>
 
-</form>
+    <section>
+      <p>Details relating to your vehicles usage. </p>
+    </section>
 
-<form>
-    <div class="form-group">
-        <label for="milesPerYear">Miles per year </label>
-        <input type="number" class="form-control" id="milesPerYear" value="20000">
-    </div>
-    <div class="form-group">
-        <label for="mpg">MPG</label>
-        <input type="number" class="form-control" id="mpg" value="20">
-    </div>
+    <form class="form-inline" style="margin-bottom:10px;border-color:#777777; border-style: solid;border-width: 2px;border-radius: 5px; padding: 5px 5px 5px 5px; ">
+        <div class="form-group input-group-sm">
+            <label style="margin-left: 5px;"  for="milesPerYear">Miles per year </label>
+            <input type="number" style="width: 100px;margin-left: 5px;" class="form-control" id="milesPerYear" ng-model="vm.priceCalculator.milesPerYear">
+        </div>
+        <div class="form-group input-group-sm">
+            <label style="margin-left: 5px;"  for="mpg">MPG</label>
+            <input type="number" style="width: 60px;margin-left: 5px;" class="form-control" id="mpg" ng-model="vm.priceCalculator.mpg">
+        </div>
 
-</form>
+    </form>
 
-<table>
-    <thead>
-    <tr>
-        <th>£ Fuel Cost per year</th>
-        <th>H2 fuel cell saving</th>
-        <th>£ Fuel Cost after saving</th>
-        <th>Saving per month</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
-        <td>Body content 1</td>
-        <td>Body content 2</td>
-    </tr>
-    </tbody>
-</table>
+
+    <section>
+        <h3 class="section_header skincolored">Cost saving's per vehicle</h3>
+    </section>
+    <div class="panel panel-default">
+        <table class="table table-bordered">
+            <thead class="h2GridHeader">
+            <tr>
+                <th>£ Fuel Cost per year</th>
+                <th>H2 fuel cell saving per year</th>
+                <th> per month</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>£ {{vm.priceCalculator.fuelCostPerYear | number:0}}</td>
+                <td>£ {{vm.priceCalculator.H2fuellCellSavingYear | number:0}}</td>
+                <td>£ {{vm.priceCalculator.H2fuellCellSavingMonth | number:0}}</td>
+            </tr>
+            </tbody>
+        </table>
+     </div>
+</div>

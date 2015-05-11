@@ -45,3 +45,5 @@ Temporary Items
 .idea
 h2tech.imi
 node_modules
+
+.idea/workspace.xml

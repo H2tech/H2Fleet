@@ -8,19 +8,41 @@
 (function(){
 
     'use strict'
-    function pricerDirective(WIDGETS_DIR){
+    function pricerDirective(){
 
 
-        function Controller($scope, h2CostModel){
+        function Controller($scope){
 
+            var priceCalculator = {};
+                priceCalculator.fuelPriceLtr =  1.19;
+                priceCalculator.h2FuelCellSaving =  30;
+                priceCalculator.milesPerYear =  20000;
+                priceCalculator.mpg =  20;
 
-            function calculateCost (){
+                calculateCost();
 
+            function calculateCost(){
 
+                priceCalculator.fuelCostPerGallon = (priceCalculator.fuelPriceLtr * 4.5);
+                priceCalculator.fuelCostPerYear   = (priceCalculator.milesPerYear / priceCalculator.mpg) * priceCalculator.fuelCostPerGallon;
+                priceCalculator.H2fuellCellSavingYear  = priceCalculator.fuelCostPerYear * (priceCalculator.h2FuelCellSaving *0.01);
+                priceCalculator.H2fuellCellSavingMonth = priceCalculator.H2fuellCellSavingYear / 12;
             }
 
+            $scope.$watch('vm.priceCalculator',function(newVal, oldValue){
+
+                    if(newVal !== oldValue){
+
+                        calculateCost();
+
+                    }
+
+                }
+
+            ,true);
+
             // exports
-            this.calculateCost = calculateCost;
+            this.priceCalculator = priceCalculator;
         }
 
         //-----------------------
@@ -33,12 +55,12 @@
             restrict     : 'E',
             controller   : Controller,
             controllerAs : 'vm',
-            templateUrl  : WIDGETS_DIR+'types/spike/mockWidget.tpl.html'
+            templateUrl  : 'common/components/h2pricer/pricer.tpl.html'
         }
     }
 
-    angular.module("rtShell")
-        .directive("pricer",pricerDirective);
+    angular.module("h2TechApp")
+        .directive("h2Pricer",pricerDirective);
 
 }())
 
