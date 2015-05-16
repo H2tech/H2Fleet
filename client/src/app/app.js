@@ -14,6 +14,10 @@
                             templateUrl: 'app/view/h2fuelCell/costSavings.html',
                             controller: 'costSavingsCtrl'
                         })
+                        .when('/benefits', {
+                            templateUrl: 'app/view/h2fuelCell/benefits.html',
+                            controller: 'benefitsCtrl'
+                        })
                         .when('/guarantee', {
                             templateUrl: 'app/view/h2fuelCell/guarantee.html',
                             controller: 'guaranteeCtrl'
