@@ -4,10 +4,9 @@
 (function () {
 
     'use strict'
-    console.log('1 APPLICATION :: ');
+
     function Config($routeProvider) {
 
-        console.log('2 CONFIG :: ');
 
         $routeProvider.when('/home', { templateUrl: 'app/view/home.html',controller: 'home-ctrl'})
                         .when('/costSavings', {

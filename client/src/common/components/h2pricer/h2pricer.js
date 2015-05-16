@@ -15,9 +15,9 @@
 
             var priceCalculator = {};
                 priceCalculator.fuelPriceLtr =  1.19;
-                priceCalculator.h2FuelCellSaving =  30;
+                priceCalculator.h2FuelCellSaving =  20;
                 priceCalculator.milesPerYear =  20000;
-                priceCalculator.mpg =  20;
+                priceCalculator.mpg =  10;
 
                 calculateCost();
 
