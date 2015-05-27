@@ -2,6 +2,9 @@
 Thumbs.db
 ehthumbs.db
 
+# IDE
+.idea
+
 # Folder config file
 Desktop.ini
 
@@ -45,5 +48,3 @@ Temporary Items
 .idea
 h2tech.imi
 node_modules
-
-.idea/workspace.xml
